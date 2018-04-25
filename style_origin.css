@@ -74,13 +74,13 @@
 	h4,
 	h5,
 	h6 								{ font-weight:normal; }
-	h1 								{ background:#ea2e49; color:#fff; display:inline-block; margin-bottom:1em; padding:0.5em 1em; }
+	h1 								{ background:#2eea71; color:#fff; display:inline-block; margin-bottom:1em; padding:0.5em 1em; }
 	h2 								{ color:#fff; font-weight:900; /* Heavy */ font-size:6em; letter-spacing:1px; line-height:1em; }
 	h3 								{ font-size:2.25em; font-weight:200; /* Thin */ letter-spacing:1px; line-height:1em; padding:0.5em 0 0.25em 0; }
 
 	/* Links */
 	a 								{ border-bottom:1px solid rgba(0,0,0,0.2); color:#333; text-decoration:none; -moz-transition:border-color 0.2s ease-in-out; -ms-transition:border-color 0.2s ease-in-out; -o-transition:border-color 0.2s ease-in-out; -webkit-transition:border-color 0.2s ease-in-out; transition:border-color 0.2s ease-in-out; }
-	a:hover 						{ border-color:#ea2e49; }
+	a:hover 						{ border-color:#2eea71; }
 	section.intro div.summary p a,
 	div.explanation p a,
 	div.participation p a			{ color:#fff; }
